@@ -1,0 +1,14 @@
+\select@language {french}
+\contentsline {section}{\numberline {1}Introduction}{2}
+\contentsline {section}{\numberline {2}Feature extraction}{2}
+\contentsline {subsection}{\numberline {2.1}Id\IeC {\'e}e}{2}
+\contentsline {subsection}{\numberline {2.2}Impl\IeC {\'e}mentation}{2}
+\contentsline {subsection}{\numberline {2.3}R\IeC {\'e}sultats}{4}
+\contentsline {section}{\numberline {3}R\IeC {\'e}gression logistique}{4}
+\contentsline {subsection}{\numberline {3.1}Principe}{4}
+\contentsline {subsection}{\numberline {3.2}Exploitation}{4}
+\contentsline {subsection}{\numberline {3.3}R\IeC {\'e}sultats}{4}
+\contentsline {section}{\numberline {4}Annexes}{5}
+\contentsline {subsection}{\numberline {4.1}Programme d'analyse}{5}
+\contentsline {subsection}{\numberline {4.2}Regression logistique}{7}
+\contentsline {subsection}{\numberline {4.3}Fonction de pr\IeC {\'e}diction}{7}

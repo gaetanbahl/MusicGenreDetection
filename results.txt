@@ -1,0 +1,89 @@
+VIVALDI 4 SEASONS - SPRING : 
+
+ Mean-Centroid :    
+ 
+    59.524279  
+ 
+ Mean-Rolloff :    
+ 
+    98.790711  
+ 
+ Mean-Flux :    
+ 
+    15.664274  
+ 
+ ZeroCross :    
+ 
+    58.049465  
+ 
+ LowEnergy :    
+ 
+    0.6239803  
+
+
+VEXENTO - PIXEL PARTY :
+
+
+ Mean-Centroid :    
+ 
+    92.329056  
+ 
+ Mean-Rolloff :    
+ 
+    195.34717  
+ 
+ Mean-Flux :    
+ 
+    173.21853  
+ 
+ ZeroCross :    
+ 
+    81.29567  
+ 
+ LowEnergy :    
+ 
+    0.5182131  
+
+ADHESIVE WOMBAT - 8 bit adventure :
+
+ Mean-Centroid :    
+ 
+    94.201679  
+ 
+ Mean-Rolloff :    
+ 
+    205.56836  
+ 
+ Mean-Flux :    
+ 
+    108.96227  
+ 
+ ZeroCross :    
+ 
+    80.67663  
+ 
+ LowEnergy :    
+ 
+    0.4850983  
+
+HANDEL - WATER MUSIC 1
+
+ Mean-Centroid :    
+ 
+    55.704163  
+ 
+ Mean-Rolloff :    
+ 
+    90.675298  
+ 
+ Mean-Flux :    
+ 
+    23.371763  
+ 
+ ZeroCross :    
+ 
+    54.55436  
+ 
+ LowEnergy :    
+ 
+    0.6088922  
